@@ -1,0 +1,8 @@
+export const GETALL = "GET_ALL_PHOTOS"
+export const ERROR = "ERROR"
+export const INC_PAGE = "INC_PAGE"
+export const GET10 = "GET10"
+export const LOADING = "LOADING"
+export const SET_Y = "SET_Y"
+export const INIT = "INIT"
+export const LOADINGALL = "LOADINGALL"
