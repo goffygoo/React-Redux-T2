@@ -1,6 +1,4 @@
-# Internship Task 2
-
-## React Redux App
+# React Redux App
 
 This is a React Redux app which shows the user some set of images from a fake API in an ordered way and a better user experience.
 
